@@ -1,10 +1,35 @@
 # Soctia Jewelry E-Commerce Backend
 
+This is the backend of Scotia Jewelry, a jewelry e-commerce plaftorm. It contains the following features:
+
+* User management
+* Seller management
+* Product search
+* Bidding product
+* Shopping cart
+* Checkout & payment
+* Product review
+* Flash deals
+* Email notification
+
 ## Authors
 
-* [Anita Kumari](B00884141) (an954221@dal.ca) - *(Maintainer)*
-* [Xiao Ling](B00877105) (xz540782@dal.ca) - *(Maintainer)*
-* [Rutu Sadaykumar Joshi](B00897744) (rt296393@dal.ca) - *(Maintainer)*
-* [Meshwa Rameshbhai Savalia](B00890170) (pr522080@dal.ca) - *(Maintainer)*
-* [Pranav Chauhan](B00890693) (an954221@dal.ca) - *(Maintainer)*
-* [Abhishek Karthik Manikandan](B00870510) (ab620101@dal.ca) - *(Maintainer)*
+* Xiao Ling, xz540782@dal.ca
+* Anita Kumari, an954221@dal.ca
+* Abhishek Karthik Manikandan, ab620101@dal.ca
+* Pranav Chauhan, an954221@dal.ca
+* Rutu Sadaykumar Joshi, rt296393@dal.ca
+* Meshwa Rameshbhai Savalia, pr522080@dal.ca
+
+## Built and Deployed With
+
+* Node.js
+* Express
+* Heroku
+* MongoDB
+
+## Implementation Details
+
+* This project is built with Node.js and Express
+* The project is deployed on Herok
+* All data are stored in MongoDB
